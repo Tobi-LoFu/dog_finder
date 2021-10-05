@@ -1,0 +1,12 @@
+img {
+    max-width: 10rem;
+    margin: 1rem;
+}
+
+.container {
+    display: flex;
+}
+
+h2, p {
+    margin: 0.5rem 1rem;
+}
